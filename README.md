@@ -5,4 +5,5 @@ Lucas Drinen
 
 Min Yi Ida Jiang
 
-Program that asks for a name and information about your pets and outputs a message depending on what you response is.
+Program that comments on your pets.
+It asks for a name and information about your pets and thus outputs a message depending on what you response is.
