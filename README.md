@@ -15,4 +15,4 @@ The 3-clause BSD License was chosen since it was pretty comprehensive as it allo
 
 ## Code of Conduct
 
-The Contributor Covenant is 
+We chose The Contributor Covenant code of conduct since it is very broad and could be applied to any project. It has very clear and universal standards and consequences for violations.
